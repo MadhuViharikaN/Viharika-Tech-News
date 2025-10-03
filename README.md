@@ -1,4 +1,4 @@
-# 📰 Grishma Tech News - Tech Insights at Your Fingertips
+# 📰 Viharika Tech News - Tech Insights at Your Fingertips
 
 Get the latest **tech news** in one place with **Grishma Tech News**! 🚀 Stay informed with curated top stories, eliminating the need to browse multiple websites.
 
@@ -49,6 +49,7 @@ git clone https://github.com/your-username/tech-news-website.git
 ---
 ### 🙌 Thank You!
 👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/grishma-gedela), Tech News)
+
 
 
 
